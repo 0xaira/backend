@@ -1,0 +1,14 @@
+{
+  "name": "backend_setup",
+  "version": "1.0.0",
+  "description": "Backend Setup",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Aira Jena",
+  "license": "ISC"
+}
